@@ -1,7 +1,7 @@
 # Stereo Matching using Belief Propagation (Synchronous)
 An optimized (very fast) Matlab implementation of Loopy Belief Propagation for stereo matching. It uses the "Min-Sum" version of the algorithm and the "Synchronous" message update schedule.
 
-For an alternative optimized version look at here: https://github.com/aposb/stereo-matching-using-belief-propagation-fast
+For a different aproach, look at here: https://github.com/aposb/stereo-matching-using-belief-propagation-fast
 
 ## Input Image
 The Tsukuba stereo image that used as input.
